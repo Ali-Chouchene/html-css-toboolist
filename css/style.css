@@ -35,8 +35,8 @@ h1 {
    margin: auto;
    padding: 10px;
    width: 60%;
-   border-top-left-radius: 10%;
-   border-top-right-radius: 10%;
+   border-top-left-radius: 3%;
+   border-top-right-radius: 3%;
    border-bottom: 0px;
    
 
@@ -71,9 +71,12 @@ body{
 
 .results{
    background-color: rgb(255, 255, 255);
-   margin: 3px auto;
-   padding: 1%;
+   margin: 2px auto;
    width: 60%;
+   padding-top: 50px;
+   padding-bottom: 20px;
+   border-bottom-right-radius: 1%;
+   border-bottom-left-radius: 1%;
    
 
 
@@ -81,7 +84,7 @@ body{
 
 details{
     
-   margin-left: 20px;
+   margin-left: 25px;
 }
 
 
@@ -155,5 +158,27 @@ h3{
     padding: 6px;
     border-radius: 30%;
     margin-left: 2%;
+    
+}
+.website{
+    
+    color: #fff;
+    background-color: rgb(216,99,161);
+    text-size-adjust: 10px;
+    color: #fff;
+    padding: 5px;
+    border-radius: 30%;
+    margin-left: 1%;
+    
+}
+.sales{
+    
+    color: #fff;
+    background-color: rgb(216,99,161);
+    text-size-adjust: 10px;
+    color: #fff;
+    padding: 5px;
+    border-radius: 30%;
+    margin-left: 1%;
     
 }
