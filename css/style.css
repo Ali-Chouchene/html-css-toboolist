@@ -1,0 +1,27 @@
+/* css reset*/
+*{
+    margin: 0 ;
+    padding: 0;
+
+}
+/* heading*/
+
+#logo{
+    padding-left: 20px;
+    padding-top: 10px;
+    vertical-align: middle;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  display: inline;
+  vertical-align: middle;
+  font-size: 35px;
+}
+
+.intestazione{
+    background-color: black;
+    height: 65px;
+    margin-bottom: 20px;
+}
+/*add section*/
