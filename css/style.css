@@ -66,6 +66,7 @@ h1 {
 }
 body{
     background-color: rgb(245, 237, 237) ;
+    
 }
 
 .results{
@@ -77,11 +78,15 @@ body{
 
 
 }
-summary{
-   margin-left: 5px;
 
-
+details{
+    
+   margin-left: 15px;
 }
+
+
+
+
 h3{
     display: inline;
 }
@@ -89,13 +94,27 @@ h3{
     border-color:rgb(96,172,91);
     border-radius: 50%;
     background-color:#fff;
-    margin-right: 7px;
+    margin-right: 5px;
     padding: 0.17%;
     border-width: 0.4px;
     border-style: solid;
     color: rgb(96,172,91) ;
 
 }
+
+#falso{
+    border-color:rgb(207,0,0);
+    border-radius: 50%;
+    background-color:#fff;
+    margin-right: 5px;
+    padding: 0.17%;
+    border-width: 0.4px;
+    border-style: solid;
+    color: rgb(207, 0, 0);
+}
+
+
+
 .editorial{
     background-color: rgb(69,171,234);
     text-size-adjust: 10px;
@@ -104,4 +123,37 @@ h3{
     border-radius: 40%;
     margin-left: 1%;
     size: 10%;
+}
+.q1-goals{
+    color: #fff;
+    background-color: rgb(156,114,228);
+    text-size-adjust: 10px;
+    color: #fff;
+    padding: 5px;
+    border-radius: 40%;
+    margin-left: 1%;
+    size: 10%;
+
+}
+.recruiting{
+    color: #fff;
+    background-color: rgb(100,192,169);
+    text-size-adjust: 10px;
+    color: #fff;
+    padding: 5px;
+    border-radius: 40%;
+    margin-left: 1%;
+    size: 10%;
+
+}
+.mobile{
+    
+    color: #fff;
+    background-color: rgb(242,158,51);
+    text-size-adjust: 10px;
+    color: #fff;
+    padding: 6px;
+    border-radius: 30%;
+    margin-left: 2%;
+    
 }
