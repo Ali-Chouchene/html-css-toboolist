@@ -20,8 +20,45 @@ h1 {
 }
 
 .intestazione{
-    background-color: black;
+    background-color: #fff;
     height: 65px;
     margin-bottom: 20px;
 }
 /*add section*/
+
+.add-buttons{
+   
+    background-color: rgb(255, 255, 255);
+   margin: 30px auto;
+   padding: 10px;
+   width: 60%;
+   border-top-left-radius: 10%;
+   border-top-right-radius: 10%;
+
+}
+#add-task{
+    background-color:rgb(31,144,255) ;
+    color: #fff;
+    padding: 5px;
+    border-radius: 15%;
+    border-color: rgb(31,144,255);
+    border-style: none;
+    margin-left: 2%;
+    cursor: pointer;
+}
+#add-section{
+    background-color:rgb(255, 255, 255) ;
+    color: rgb(127,128,144);
+    padding: 5px;
+    border-radius: 15%;
+    border-color: rgb(127,128,144);
+    border-width: 1px;
+    cursor: pointer;
+    margin-left: 1px;
+    
+
+    
+}
+body{
+    background-color: rgb(245, 237, 237) ;
+}
